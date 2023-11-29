@@ -19,7 +19,7 @@
 # Node-Attribute
 
 **id**
-- eindeutige Identifikation jedes einzelnen Knotens (vertex), der erfasst wird
+eindeutige Identifikation jedes einzelnen Knotens (vertex), der erfasst wird
   
 **name**
 Name oder Bezeichnung des Knotens
