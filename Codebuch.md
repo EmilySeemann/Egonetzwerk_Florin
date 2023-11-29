@@ -19,13 +19,13 @@
 # Node-Attribute
 
 **id**
-eindeutige Identifikation jedes einzelnen Knotens (vertex), der erfasst wird
+- eindeutige Identifikation jedes einzelnen Knotens (vertex), der erfasst wird
   
 **name**
-Name oder Bezeichnung des Knotens
+- Name oder Bezeichnung des Knotens
 
 **sex**
-Geschlecht der jeweiligen Person (1=weiblich, 2=männlich)
+- Geschlecht der jeweiligen Person (1=weiblich, 2=männlich)
 
 **religion**
-Welcher Religion ist die Person zugehörig (1=evangelisch, 2=katholisch, 3=islamisch)
+- Welcher Religion ist die Person zugehörig (1=evangelisch, 2=katholisch, 3=islamisch)
